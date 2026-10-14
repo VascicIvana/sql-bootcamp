@@ -1,5 +1,6 @@
 # o kursu
 
-- ETL and ELT pipeline development
-- Databricks and the Delta Lake platform
-- Apache Spark and PySpark for large-scale data processing
+- SELECT, ORDER BY i LIMIT
+- Filtriranje pomoću WHERE, AND i OR
+- Rad sa NULL vrednostima
+- Spajanje tabela (JOIN)
