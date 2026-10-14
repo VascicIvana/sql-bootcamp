@@ -1,1 +1,8 @@
-#o menigit add about.md
+# O meni
+
+## Moja interesovanja
+- ai
+- citanje
+- trcanje
+- kuvanje
+
